@@ -1,0 +1,280 @@
+body{
+    padding: 0px;
+    margin: 0px;    
+}
+.main{
+    height: 70px;
+    background-color: #fff #fff white hs 1(0,0%,100%) rgb(255, 255, 255);
+}
+.sub-main{
+    display: flex;
+    gap: 15px;
+}
+.image{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    margin-top: -55px; 
+    margin-left: 2px;    
+}
+.btn1{
+    height: 40px;
+    width: 380px;
+    border-radius: 20px; 
+    text-align: end; 
+    border: 1px solid gray;
+}
+.search{
+    left: 38%;
+    position: absolute;
+    top: 10px;
+}
+.btns{
+    display: flex;
+    gap: 30px;
+    margin-left: 1100px;
+    height: 30px;
+    margin-top: -52px;
+    align-items: center;
+}
+.upload{
+    background-color: rgb(245, 23, 23);
+    color: #fff;
+    text-align: center;
+    border: none;
+    width: 100px;
+    font-weight: 600;
+    font-size: large;
+}
+.load{
+    background-color: #fff;
+    border: 2px solid whitesmoke;
+    font-weight: 700;
+}
+
+.bugger  div {
+    height: 5px;
+    width: 5px;
+    margin-top: 1px;
+    border-radius: 50%;
+    background: black;
+}
+.p{
+    display: none;
+   
+   
+}
+.dark{
+    margin-left: -15px;
+  
+}
+
+/* .dark{
+    margin-left: -32px;
+    margin-top: 73px;
+    display: flex;
+    flex-direction: column;
+    gap: 55px;
+} */
+/* .mode{
+    margin-top: -29px;
+} */
+/* .p:hover{
+    background-color: beige;
+    color: aqua;
+} */
+.active{
+    display: block;
+    position: fixed;
+    background-color: whitesmoke;
+    height: 200px;
+    width:240px;
+    color: black;
+    right: 0;
+    padding-left: 30px;
+    font-size: larger;
+}
+.text{
+    display: none;
+}
+.hide{
+    display: block;
+    color: black;
+}
+.container{
+    /* border: 1px solid black; */
+    height: 79vh;
+    width: 38vw;
+    margin-left: 400px;
+    margin-top: 30px;
+    border-radius: 5px;
+    background-color: rgb(248, 248, 255);
+}
+.X {
+    width: 30px;
+    font-size: larger;
+    font-family: sans-serif;
+    margin-left: 470px;
+    margin-top: 17px;
+    border-radius: 17px;
+    text-align: center;
+    background-color: #fff;
+}
+h1{
+    margin-left: 120px;
+    font-family: sans-serif;
+    margin-top: 40px;
+}
+h2{
+    margin-top: -25px;
+    margin-left: 60px;
+    font-size: 19px;
+    font-weight: 100;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h3{
+    margin-top: -25px;
+    margin-left: 50px;
+    font-size: 19px;
+    font-weight: 100;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h4{
+    margin-top: -25px;
+    margin-left: 65px;
+    font-size: 19px;
+    font-weight: 100;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h5{
+    margin-top: -25px;
+    margin-left: 65px;
+    font-size: 19px;
+    font-weight: 100;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h6{
+    margin-top: -25px;
+    margin-left: 65px;
+    text-align: center;
+    font-size: 19px;
+    font-weight: 100;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.QRCode{
+    border: 1px solid black;
+    height: 33px;
+    width: 385px;
+    margin-left: 70px;
+}
+.QRCode i{
+    font-size: 25px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+span{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 30px;
+}
+.terms{
+    margin-left: 94px;
+}
+.acc{
+    margin-left: 110px;
+    font-size: 15px;
+    font-weight: 500;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.sign{
+    color: red;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 275px;
+    margin-top: -19px;
+    font-weight: 500;
+}
+.pp{
+    color: black;
+    font-weight: 800;
+    margin-left: 6px;
+}
+.pps{
+    color: black;
+    font-weight: 800;
+    margin-left: 6px;
+}
+
+.side img{
+    margin-top: 30px;
+    margin-left: 70px;
+}
+.bar{
+   margin-left: -1000px;
+   margin-top: -30px;
+}
+.para{
+    margin-left: 50px;
+    font-size: larger;
+}
+.lg{
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    border: 1px solid crimson;
+    color: crimson;
+    margin-left: 50px;
+}
+.create{
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    margin-left: 50px;
+    color: black;
+    background-color: palevioletred;
+    border: none;
+}
+/* .vid1{
+    margin-left: 40%;
+    margin-top: -900px;
+    height: 100px;
+    width: 500px;
+} */
+.vid{
+    height: 300px;
+    width: 50px;
+}
+.shatu{
+    margin-left: 40%;
+    margin-top: -500px;
+}
+.pics{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+.nam{
+    margin-left: -650px ;
+    margin-top: -47px;
+}
+.fol{
+    
+    color: crimson;
+    text-align: center;
+    height: 40px;
+    border: 1px solid crimson;
+    width: 90px;
+    border: none;
+    margin-left: 400px;
+    margin-top: -25%;
+   border: 1px solid crimson;
+   background-color: white;
+
+}
